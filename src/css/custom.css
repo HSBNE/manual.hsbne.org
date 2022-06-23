@@ -1,0 +1,94 @@
+.legal {
+  line-height: 2em;
+  padding-left: 3em;
+  counter-reset: legal;
+}
+
+.legal h2 {
+  display: list-item;
+  padding-top: 2em;
+  counter-increment: legal;
+}
+
+.legal h2::marker {
+  content: counter(legal) ". ";
+}
+.legal ol>li::marker {
+  content: counter(legal) "." counters(list-item, ".") ". ";
+}
+.legal h2::marker, .legal ol>li::marker {
+  color: var(--ifm-color-content-secondary);
+}
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #f14400;
+  --ifm-color-primary-dark: #c63800;
+  --ifm-color-primary-darker: #9c2c00;
+  --ifm-color-primary-darkest: #471400;
+  --ifm-color-primary-light: #f17400;
+  --ifm-color-primary-lighter: #f1a400;
+  --ifm-color-primary-lightest: #ffd430;
+  --ifm-code-font-size: 95%;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #f14400;
+  --ifm-color-primary-dark: #c63800;
+  --ifm-color-primary-darker: #9c2c00;
+  --ifm-color-primary-darkest: #471400;
+  --ifm-color-primary-light: #f17400;
+  --ifm-color-primary-lighter: #f1a400;
+  --ifm-color-primary-lightest: #ffd430;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/*
+hue.tools
+Gradient:
+#f14400
+#eb7c02
+#e6b103
+#dfe005
+#a6db06
+#70d508
+#3ed009
+#0fca0b
+#0cc534
+#0dc05f
+
+Monochromatic #f14400
+#f14400
+#1c0800
+#471400
+#712000
+#9c2c00
+#c63800
+
+
+
+Polyad:
+#f14400
+#adf100
+#00f144
+#00adf1
+#4400f1
+#f100ad
+*/

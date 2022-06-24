@@ -802,10 +802,13 @@ The objects of the association are:
         1. The default medium is the Executive Google Drive
     4. Quorum is 2
     5. Notice is 2 business days, unless unanimous agreement to bring
-       forward. 3. Notice 1. For calling a meeting is 2 business days; 1.
-       Unless unanimous agreement to bring forward. 2. There is no notice
-       period for agenda items 3. The medium of notice shall be any medium
-       as chosen by the executive.
+       forward. 
+8. Notice 
+    1. For calling a meeting is 2 business days; 
+        1. Unless unanimous agreement to bring forward. 
+        2. There is no notice period for agenda items 
+        3. The medium of notice shall be any medium
+           as chosen by the executive.
 
 ## The Board
 

@@ -591,8 +591,11 @@ The objects of the association are:
             3. Vote by Committee
             4. Vote by Executive
         5. If the by-law appointment process cannot be satisfied, the
-           vacancy may be filled by any process voted on by The Committee
-           and Ratified by The Executive.
+           vacancy may be filled by any process The Committee forms by
+           Resolution and is Ratified by The Executive.
+        6. If there are not enough OUs to have enough Committee Members to 
+           meet Quorum, The association must act to form sufficient OUs 
+           or Named Roles to meet Quorum.
     4. Removals
         1. Members of the Committee may be removed by:
             1. Unanimous Vote of management committee minus one member
@@ -629,9 +632,14 @@ The objects of the association are:
                any and all expected communications for the meeting.
             4. Absenses not meeting the requirements of the constitution are
                considered unexcused.
-            5. Quorum is 100% of Committee Membership minus any unexcused
+            5. Quorum is 100% of Committee Membership, minus any unexcused
                absences, with a minimum of double the size of the executive
                plus one.
+                - Executive is 3 persons, so the minimum quorum is 7.
+                - There must then as such be a minimum of 4 persons on the
+                  Committee at all times.
+                - If there are 8 Committee members excluding Executive, and 
+                  2 are absent and unexcused, the Quorum is 3 + 8 - 2 = 9.
         2. Notice
             1. The defined schedule of general meetings is considered notice
                of meeting.

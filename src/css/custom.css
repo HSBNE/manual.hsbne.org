@@ -4,19 +4,19 @@
   counter-reset: legal;
 }
 
-.legal h2 {
+.legal h2,.legal h3 {
   display: list-item;
   padding-top: 2em;
   counter-increment: legal;
 }
 
-.legal h2::marker {
+.legal h2::marker, .legal h3::marker {
   content: counter(legal) ". ";
 }
 .legal ol>li::marker {
   content: counter(legal) "." counters(list-item, ".") ". ";
 }
-.legal h2::marker, .legal ol>li::marker {
+.legal h2::marker, .legal h3::marker, .legal ol>li::marker {
   color: var(--ifm-color-content-secondary);
 }
 

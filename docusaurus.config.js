@@ -43,7 +43,7 @@ const config = {
         title: 'HSBNE Handbook',
         logo: {
           alt: 'HSBNE Logo',
-          src: 'img/Logo-favicon.png',
+          src: 'img/logo-favicon.png',
         },
         items: [
           {

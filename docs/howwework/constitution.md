@@ -628,6 +628,8 @@ The objects of the association are:
                 2. A registered proxy
                 3. A person nominated at the meeting by the Chairperson, if
                    they choose to do so.
+                    1. The Chairperson must preference a member of the OU
+                       where possible.
             3. Absences must be attended with a written document outlining
                any and all expected communications for the meeting.
             4. Absenses not meeting the requirements of the constitution are

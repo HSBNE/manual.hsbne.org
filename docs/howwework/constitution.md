@@ -301,6 +301,10 @@ The objects of the association are:
        full member of the association for the purposes of dues.
     4. Persons who do not complete their payment of dues have no membership
        rights and forfeit any prior or partial payments.
+    5. The association does not hold any right of rejection for new members,
+       or any approval process other than defined in this section.
+    6. There is no appeal against rejection of new membership, as there is no
+       mechansim to reject membership.
 2. Membership fees
     1. The membership fee :
         1. is the amount decided by the members from time to time at a

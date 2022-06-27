@@ -768,11 +768,15 @@ The objects of the association are:
     2. Must be present at the Annual General Meeting
     3. Must meet membership requirements as per this section
     4. In order to preference experience and proven interest in roles,
-       eligable nominations for executive positions are taken from these
+       eligable nominations for each executive positions are taken from these
        tranches in order of listing, where the next tranche is available
        given no nominations in the current tranche.
-        1. Current Executive Members, and Assistants to the Executive having
-           held position for 4 months. @TODO
+        1. Tranche One, no preference in order of these persons:
+            1. Current Executive Members, 
+            2. Directly Previous Executive members,
+            3. Committee Named Roles whos by-law denotes them as assistant,
+               trainee or otherwise directly working with the Executive
+               Position in question, having held the role for at least 4 months.
         2. Members of the Committee.
         3. General Members of the Association.
 6. Resignations, Vacancies and Removals

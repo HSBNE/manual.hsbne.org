@@ -166,59 +166,21 @@ The objects of the association are:
 10. Notice
     1. Defined by the specific rules for the type of meeting
 
-## Proxies
+## Official Complaints to the Association
 
-1. An instrument appointing a proxy must be in writing and be in the
-   following or similar form
+1. The association must define an offical complaints procedure.
+2. The official complaints procedure will define at minimum:
+    1. Medium of receipt of complaint.
+    2. Medium of response of complaint.
+    3. Timelines for any stages or responses.
+    4. Reasonable expected confidentiality.
+3. Communications not following the official complaints procedure are
+   assumed not to be complaints, and do not require any commitments defined
+   by any complaints procedure or by-law.
 
-   > (Name of association):
-   >
-   > I, of (insert address), being a member of the association, appoint
-   > (insert name) of (insert address) as my proxy to vote for me on my
-   > behalf at the (annual) general meeting of the association, to be held
-   > on the day of (date) and at any adjournment of the meeting.
-   >
-   > Signed this day of (date) .
-   >
-   > (Signature)
+## Decisions of the Association
 
-2. The instrument appointing a proxy must
-    1. if the appointor is an individual be signed by the appointor or the
-       appointor's attorney properly authorised in writing; or
-    2. if the appointor is a corporation
-        1. be under seal; or
-        2. be signed by a properly authorised officer or attorney of the
-           corporation.
-3. A proxy may be a member of the association or another person.
-4. The instrument appointing a proxy is taken to confer authority to demand
-   or join in demanding a secret ballot.
-5. Each instrument appointing a proxy must be given to the secretary before
-   the start of the meeting or adjourned meeting at which the person named
-   in the instrument proposes to vote.
-6. Unless otherwise instructed by the appointor, the proxy may vote as the
-   proxy considers appropriate.
-7. If a member wants a proxy to vote for or against a resolution, the
-   instrument appointing the proxy must be in the following or similar
-   form
-
-   > (Name of association):
-   >
-   > I, (insert name) of (insert address), being a member of the
-   > association HSBNE Inc, appoint (insert name) as my proxy to vote for
-   > me on my behalf at the (annual) general meeting of the association, to
-   > be held on the (day) day of (month) and at any adjournment of the
-   > meeting.
-   >
-   > Signed this (day) of (month).
-   >
-   > (Signature)
-   >
-   > This form is to be used in favour of/against (strike out whichever is
-   > not wanted) the following resolutions -
-   >
-   > (List relevant resolutions)
-
-## Proposals of the Association
+### Proposals
 
 1. Any member of the association may make at any time via the offical
    communications medium of the association a proposal.
@@ -235,7 +197,7 @@ The objects of the association are:
 6. A proposal that is requested to be brought to meeting is automatically
    added to the next available General Meeting agenda.
 
-## Mandates of the Association
+### Mandates
 
 1. When the association or part thereof passes a vote, the item becomes
    referrred to as a Mandate.
@@ -245,23 +207,11 @@ The objects of the association are:
 4. Mandates have default expiration of 3 month, unless voted otherwise.
 5. Mandates are current until expired or voted to be abandoned.
 
-## Resolutions of the Association
+### Resolutions
 
 1. A resolution of the association is a mandate from a meeting that:
 2. requires the recieving MU to vote to ratify or reject the resolution.
 3. Ratified resolutions are Mandates for the Ratifying MU to execute.
-
-## Official Complaints to the Association
-
-1. The association must define an offical complaints procedure.
-2. The official complaints procedure will define at minimum:
-    1. Medium of receipt of complaint.
-    2. Medium of response of complaint.
-    3. Timelines for any stages or responses.
-    4. Reasonable expected confidentiality.
-3. Communications not following the official complaints procedure are
-   assumed not to be complaints, and do not require any commitments defined
-   by any complaints procedure or by-law.
 
 ## The General Public
 
@@ -292,7 +242,6 @@ The objects of the association are:
        appropriate duty of care for minors, such as correct Blue Cards or
        similar, written permission from the legal parent or guardion is
        sufficient to allow participation.
-
 
 ## General Membership (Members)
 
@@ -366,75 +315,6 @@ The objects of the association are:
         2. Access to any members-only services or equipment.
     4. Access to any services or systems required to facilitate their
        membership.
-6. General Meetings (GM, GMs)
-    1. The meetings of the Members is the General Meeting (GM).
-    2. The General Meeting is held monthly on the second Tuesday of each
-       Month.
-    3. Quorum
-        1. Quorum of the General Meeting is as defined by Quorum for The
-           Management Committee at General Meetings.
-    4. Notice
-        1. Notice of the meeting is taken to be the schedule of the general
-           meeting.
-        2. Notice period of agenda items requiring vote is 5 days
-        3. Notice period of agenda items not requiring vote is nil.
-        4. Notice of Agenda items are one of:
-            1. Any identifiable communication on the OCM, where identifiable
-               is having the words "Agenda" and the date of the meeting in
-               question.
-            2. Proposals requested to be taken to meeting.
-    5. Business to be Conducted at General Meetings
-        1. The association will maintain a by-law that details the procedure
-           and default agenda of general meetings.
-7. Annual general meetings
-    1. Each annual general meeting must be held -
-        1. at least once each year; and
-        2. within 6 months after the end date of the association's
-           reportable financial year.
-    2. Unless the membership is otherwise notified by the executive, each
-       annual meeting shall occur at the standard meeting time and the
-       standard meeting place on the date of the Scheduled General Meeting
-       for May each year.
-    3. Business to be conducted at annual general meeting of the
-       association.
-        1. The association is assumed to be a level 1 incorporated
-           association.
-            1. If the association qualifies as a level 2, it operates as a
-               level 1.
-            2. If the association qualifies as a level 3, refer to the Act.
-        2. As a Level 1 Association, the following business must be
-           conducted at each annual general meeting of the association -
-            1. presenting the
-                - financial statement,
-                - audit report to the meeting for adoption;
-                - presidents report, if they opt to provide one.
-            2. voting to receive the association's
-                - financial statement,
-                - audit report, for the last reportable financial year;
-            3. Thankyous and celebration of the achievements of the Executive,
-               Committee over the last year.
-            4. Electing members of the executive;
-                1. The executive are dissolved, ie stood down from their positions.
-                2. Each executive position comes to vote in turn;
-                    1. In the order of:
-                        1. President
-                        2. Treasurer
-                        3. Secretary
-                    2. Voting is always by secret ballot
-                    3. The Chairperson will take nominations from the first tranche.
-                        1. Nominations do not require seconding.
-                        2. Persons may self-nominate.
-                    5. Any voter present may request the tranche be put aside and
-                       moved to the next tranche,
-                        1. In this case, the Chairperson must hold a vote.
-                        2. The vote will pass if unanimous.
-                    6. If there are more than zero nominations in the tranche,
-                       The voters must vote for the position amongst the nominees.
-                    7. If there are no nominations, the next tranche is raised and the
-                       process repeats until the position is filled.
-            5. Welcome the new Executive of the association
-            6. Meeting proceeds as the first General Meeting of the Operational Year
-               of the association.
 8. When membership ends
     1. Resignation of Membership
     2. A member may resign from the association by
@@ -503,6 +383,140 @@ The objects of the association are:
                should be rejected or the membership should be terminated.
             3. An appeal must be decided by a special resolution of the
                members present and eligible to vote at the meeting.
+
+### Proxies
+
+1. An instrument appointing a proxy must be in writing and be in the
+   following or similar form
+
+   > (Name of association):
+   >
+   > I, of (insert address), being a member of the association, appoint
+   > (insert name) of (insert address) as my proxy to vote for me on my
+   > behalf at the (annual) general meeting of the association, to be held
+   > on the day of (date) and at any adjournment of the meeting.
+   >
+   > Signed this day of (date) .
+   >
+   > (Signature)
+
+2. The instrument appointing a proxy must
+    1. if the appointor is an individual be signed by the appointor or the
+       appointor's attorney properly authorised in writing; or
+    2. if the appointor is a corporation
+        1. be under seal; or
+        2. be signed by a properly authorised officer or attorney of the
+           corporation.
+3. A proxy may be a member of the association or another person.
+4. The instrument appointing a proxy is taken to confer authority to demand
+   or join in demanding a secret ballot.
+5. Each instrument appointing a proxy must be given to the secretary before
+   the start of the meeting or adjourned meeting at which the person named
+   in the instrument proposes to vote.
+6. Unless otherwise instructed by the appointor, the proxy may vote as the
+   proxy considers appropriate.
+7. If a member wants a proxy to vote for or against a resolution, the
+   instrument appointing the proxy must be in the following or similar
+   form
+
+   > (Name of association):
+   >
+   > I, (insert name) of (insert address), being a member of the
+   > association HSBNE Inc, appoint (insert name) as my proxy to vote for
+   > me on my behalf at the (annual) general meeting of the association, to
+   > be held on the (day) day of (month) and at any adjournment of the
+   > meeting.
+   >
+   > Signed this (day) of (month).
+   >
+   > (Signature)
+   >
+   > This form is to be used in favour of/against (strike out whichever is
+   > not wanted) the following resolutions -
+   >
+   > (List relevant resolutions)
+
+### General Meetings (GM, GMs)
+
+1. The meetings of the Members is the General Meeting (GM).
+2. The General Meeting is held monthly on the second Tuesday of each
+   Month.
+3. Quorum
+    1. Quorum of the General Meeting is as defined by Quorum for The
+       Management Committee at General Meetings.
+4. Notice
+    1. Notice of the meeting is taken to be the schedule of the general
+       meeting.
+    2. Notice period of agenda items requiring vote is 5 days
+    3. Notice period of agenda items not requiring vote is nil.
+    4. Notice of Agenda items are one of:
+        1. Any identifiable communication on the OCM, where identifiable
+           is having the words "Agenda" and the date of the meeting in
+           question.
+        2. Proposals requested to be taken to meeting.
+5. Business to be Conducted at General Meetings
+    1. The association will maintain a by-law that details the procedure
+       and default agenda of general meetings.
+
+### Annual general meetings
+
+  1. Each annual general meeting must be held -
+      1. at least once each year; and
+      2. within 6 months after the end date of the association's
+         reportable financial year.
+  2. Unless the membership is otherwise notified by the executive, each
+     annual meeting shall occur at the standard meeting time and the
+     standard meeting place on the date of the Scheduled General Meeting
+     for May each year.
+  3. Business to be conducted at annual general meeting of the
+     association.
+      1. The association is assumed to be a level 1 incorporated
+         association.
+          1. If the association qualifies as a level 2, it operates as a
+             level 1.
+          2. If the association qualifies as a level 3, refer to the Act.
+      2. As a Level 1 Association, the following business must be
+         conducted at each annual general meeting of the association -
+          1. presenting the
+              - financial statement,
+              - audit report to the meeting for adoption;
+              - presidents report, if they opt to provide one.
+          2. voting to receive the association's
+              - financial statement,
+              - audit report, for the last reportable financial year;
+          3. Thankyous and celebration of the achievements of the Executive,
+             Committee over the last year.
+          4. Electing members of the executive;
+              1. The executive are dissolved, ie stood down from their positions.
+              2. Each executive position comes to vote in turn;
+                  1. In the order of:
+                      1. President
+                      2. Treasurer
+                      3. Secretary
+                  2. Voting is always by secret ballot
+                  3. The Chairperson will take nominations from the first tranche.
+                      1. Nominations do not require seconding.
+                      2. Persons may self-nominate.
+                  5. Any voter present may request the tranche be put aside and
+                     moved to the next tranche,
+                      1. In this case, the Chairperson must hold a vote.
+                      2. The vote will pass if unanimous.
+                  6. If there are more than zero nominations in the tranche,
+                     The voters must vote for the position amongst the nominees.
+                  7. If there are no nominations, the next tranche is raised and the
+                     process repeats until the position is filled.
+          5. Welcome the new Executive of the association
+          6. Meeting proceeds as the first General Meeting of the Operational Year
+             of the association.
+          7. The first standing agenda item is always to vote to handover financial control.
+             If not otherwise specified by by-law, The agenda item will be:
+              > The executive, as accepted at this Annual General Meeting, has the powers
+              > to administrate the financial accounts of the association in full, including
+              > control of access of any kind, including but not limited to: Signatories,
+              > Admin accounts, Debit Cards or otherwise.
+          8. At the conclusion of the meeting, the minutes will be immediately printed,
+             signed phyically by the Outgoing and Incoming Executive, scanned and stored physically
+             and digitally.
 
 ## Management of the association
 

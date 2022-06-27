@@ -232,12 +232,13 @@ The objects of the association are:
 
 ## Mandates of the Association
 
-1. A Mandate is an action to be taken by the Association, OU or MU as passed
-   by vote.
-2. The list of current mandates must be maintained by the Association, OU or
+1. When the association or part thereof passes a vote, the item becomes
+   referrred to as a Mandate. 
+2. A Mandate is an action to be taken by the Association, OU or MU.
+3. The list of current mandates must be maintained by the Association, OU or
    MU.
-3. Mandates have default expiration of 3 month, unless voted otherwise.
-4. Mandates are current until expired or voted to be abandoned.
+4. Mandates have default expiration of 3 month, unless voted otherwise.
+5. Mandates are current until expired or voted to be abandoned.
 
 ## Resolutions of the Association
 

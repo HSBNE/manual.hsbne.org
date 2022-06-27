@@ -18,11 +18,11 @@
 3. Periods specified as Days are full 24hr periods, not including the day of.
    The deadline is midnight of the first day of the period.
     - Eg: 5 days notice from Tuesday is Midnight the previous Thursday.
-        - Tuesday 8pm (0), 
-        - Monday 8pm (1), 
-        - Sunday 8pm (2), 
-        - Saturday 8pm (3), 
-        - Friday 8pm (4), 
+        - Tuesday 8pm (0),
+        - Monday 8pm (1),
+        - Sunday 8pm (2),
+        - Saturday 8pm (3),
+        - Friday 8pm (4),
         - Thursday 8pm (5). Midnight of this day gives (5 x 24 - 4) = 116 hours notice.
 
 ## Name
@@ -238,7 +238,7 @@ The objects of the association are:
 ## Mandates of the Association
 
 1. When the association or part thereof passes a vote, the item becomes
-   referrred to as a Mandate. 
+   referrred to as a Mandate.
 2. A Mandate is an action to be taken by the Association, OU or MU.
 3. The list of current mandates must be maintained by the Association, OU or
    MU.
@@ -286,11 +286,11 @@ The objects of the association are:
 4. The association makes no guarantee or warranty that the spaces online or
    physical that it controls and or moderates are fit for minors.
 5. General Public who are under the age of majority may attend with the
-   supervision of their legal parent or guardian. The association may 
+   supervision of their legal parent or guardian. The association may
    restrict their participation as deemed appropriate from time to time.
-    1. In the case of events and classes, where there is a legally 
-       appropriate duty of care for minors, such as correct Blue Cards or 
-       similar, written permission from the legal parent or guardion is 
+    1. In the case of events and classes, where there is a legally
+       appropriate duty of care for minors, such as correct Blue Cards or
+       similar, written permission from the legal parent or guardion is
        sufficient to allow participation.
 
 
@@ -580,7 +580,7 @@ The objects of the association are:
     1. The committee as a voting group, not including the general membership,
        can vote to:
         1. Form Mandates as allowed by their Functions.
-        2. Can vote to form Resolutions directed to The Executive to be voted 
+        2. Can vote to form Resolutions directed to The Executive to be voted
            on and actioned.
     2. All other voting on matters by the committee will be as determined
        by the agenda provided by the general membership, of which the committee
@@ -621,8 +621,8 @@ The objects of the association are:
         5. If the by-law appointment process cannot be satisfied, the
            vacancy may be filled by any process The Committee forms by
            Resolution and is Ratified by The Executive.
-        6. If there are not enough OUs to have enough Committee Members to 
-           meet Quorum, The association must act to form sufficient OUs 
+        6. If there are not enough OUs to have enough Committee Members to
+           meet Quorum, The association must act to form sufficient OUs
            or Named Roles to meet Quorum.
     4. Removals
         1. Members of the Committee may be removed by:
@@ -668,7 +668,7 @@ The objects of the association are:
                 - Executive is 3 persons, so the minimum quorum is 7.
                 - There must then as such be a minimum of 4 persons on the
                   Committee at all times.
-                - If there are 8 Committee members excluding Executive, and 
+                - If there are 8 Committee members excluding Executive, and
                   2 are absent and unexcused, the Quorum is 3 + 8 - 2 = 9.
         2. Notice
             1. The defined schedule of general meetings is considered notice
@@ -800,7 +800,7 @@ The objects of the association are:
        tranches in order of listing, where the next tranche is available
        given no nominations in the current tranche.
         1. Tranche One, no preference in order of these persons:
-            1. Current Executive Members, 
+            1. Current Executive Members,
             2. Directly Previous Executive members,
             3. Committee Named Roles whos by-law denotes them as assistant,
                trainee or otherwise directly working with the Executive
@@ -860,8 +860,8 @@ The objects of the association are:
         1. The default medium is the Executive Google Drive
     4. Quorum is 2
     5. Notice is 2 business days, unless unanimous agreement to bring
-       forward. 
-    6. There is no notice period for agenda items 
+       forward.
+    6. There is no notice period for agenda items
     7. The medium of notice shall be any medium as chosen by the executive.
 
 ## The Board

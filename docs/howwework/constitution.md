@@ -540,16 +540,23 @@ The objects of the association are:
 2. Functions
     1. To meet regularly at the General Meeting for the purposes of
        advancing the interests of the association.
-    2. To meet privately as required
-    3. Voting to form Resolutions for The Executive where required.
+    2. To meet privately as required, limited in action by:
+        1. Cannot raise, alter or dismiss budgets.
+    3. Voting to form Resolutions for The Executive where required, as defined
+       by their purpose.
     4. Voting to ratify the monthly prioritisation of CAPEX.
     5. Voting to rebalance the distribution of funds to OUs from the OU OPEX
        as guided by The Treasurer
     6. Any responsibilities, requirements or functions as defined by by-law.
 3. Mandates
-    1. Can form Mandates as can any other member.
-    2. Can form Resolutions directed to The Executive to be voted on and
-       actioned.
+    1. The committee as a voting group, not including the general membership,
+       can vote to:
+        1. Form Mandates as allowed by their Functions.
+        2. Can vote to form Resolutions directed to The Executive to be voted 
+           on and actioned.
+    2. All other voting on matters by the committee will be as determined
+       by the agenda provided by the general membership, of which the committee
+       is a part.
 4. Membership
     1. The Executive is a part of the committee
     2. The nominated representatives of any and all OUs the association

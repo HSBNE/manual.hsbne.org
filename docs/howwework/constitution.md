@@ -399,14 +399,37 @@ The objects of the association are:
             2. If the association qualifies as a level 3, refer to the Act.
         2. As a Level 1 Association, the following business must be
            conducted at each annual general meeting of the association -
-            1. receiving the association's
-                - financial statement,
-                - audit report, for the last reportable financial year;
-            2. presenting the
+            1. presenting the
                 - financial statement,
                 - audit report to the meeting for adoption;
-            3. the dissolution of the executive;
-            4. electing members of the executive;
+                - presidents report, if they opt to provide one.
+            2. voting to receive the association's
+                - financial statement,
+                - audit report, for the last reportable financial year;
+            3. Thankyous and celebration of the achievements of the Executive,
+               Committee over the last year.
+            4. Electing members of the executive;
+                1. The executive are dissolved, ie stood down from their positions.
+                2. Each executive position comes to vote in turn;
+                    1. In the order of:
+                        1. President
+                        2. Treasurer
+                        3. Secretary
+                    2. Voting is always by secret ballot
+                    3. The Chairperson will take nominations from the first tranche.
+                        1. Nominations do not require seconding.
+                        2. Persons may self-nominate.
+                    5. Any voter present may request the tranche be put aside and
+                       moved to the next tranche,
+                        1. In this case, the Chairperson must hold a vote.
+                        2. The vote will pass if unanimous.
+                    6. If there are more than zero nominations in the tranche,
+                       The voters must vote for the position amongst the nominees.
+                    7. If there are no nominations, the next tranche is raised and the
+                       process repeats until the position is filled.
+            5. Welcome the new Executive of the association
+            6. Meeting proceeds as the first General Meeting of the Operational Year
+               of the association.
 8. When membership ends
     1. Resignation of Membership
     2. A member may resign from the association by

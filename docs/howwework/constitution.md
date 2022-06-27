@@ -821,6 +821,8 @@ The objects of the association are:
                Position in question, having held the role for at least 4 months.
         2. Members of the Committee.
         3. General Members of the Association.
+    5. The term of an Executive role is 1 Operational Year.
+    6. The amount of consecutive terms of an Executive role is unlimited.
 6. Resignations, Vacancies and Removals
     1. Resignations
         1. May resign by written notice to the executive

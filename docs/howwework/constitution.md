@@ -281,9 +281,13 @@ The objects of the association are:
 4. The association makes no guarantee or warranty that the spaces online or
    physical that it controls and or moderates are fit for minors.
 5. General Public who are under the age of majority may attend with the
-   supervision or written permission of their legal parent or guardian. The
-   association may restrict their participation as deemed appropriate from
-   time to time.
+   supervision of their legal parent or guardian. The association may 
+   restrict their participation as deemed appropriate from time to time.
+    1. In the case of events and classes, where there is a legally 
+       appropriate duty of care for minors, such as correct Blue Cards or 
+       similar, written permission from the legal parent or guardion is 
+       sufficient to allow participation.
+
 
 ## General Membership (Members)
 

@@ -4,9 +4,14 @@
 
 ## Interpretation
 
-1. In these rules  
-   _**Act**_ means the *Associations Incorporation Act 1981*.  
-   _**present**_ see rule 6.6.2
+1. In these rules
+    - _**Act**_ means the *Associations Incorporation Act 1981*.
+    - _**present**_ see rule 6.6.2.
+    - _**Operational Year (OY)**_ the period from AGM to AGM of successive years.
+    - _**Calendar Year (CY)**_ the calendar year.
+    - _**Financial Year (FY)**_ the period from the End of Financial Year of the
+      association to the next, as defined in these rules.
+
 2. A word or expression that is not defined in this consititution, but is
    defined in the Act has, if the context permits, the meaning given by the
    Act.

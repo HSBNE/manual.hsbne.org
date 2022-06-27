@@ -92,7 +92,7 @@ The objects of the association are:
 3. Meetings may be called outside the schedule by:
     1. The Chairperson
     2. Proposed and Seconded by two persons eligable to vote at that
-       meeting.
+       meeting, by notice on the OCM.
 4. The minutes of the meeting are taken by The Secretary
     1. If The Secretary is not present within 10 minutes of the beginning of
        the meeting, a person may be appointed by The Chairperson

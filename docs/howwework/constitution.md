@@ -499,8 +499,7 @@ The objects of the association are:
                       2. Persons may self-nominate.
                   5. Any voter present may request the tranche be put aside and
                      moved to the next tranche,
-                      1. In this case, the Chairperson must hold a vote.
-                      2. The vote will pass if unanimous.
+                      1. In this case, the Chairperson must hold a special resolution vote.
                   6. If there are more than zero nominations in the tranche,
                      The voters must vote for the position amongst the nominees.
                   7. If there are no nominations, the next tranche is raised and the

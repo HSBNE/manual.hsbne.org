@@ -800,6 +800,7 @@ The objects of the association are:
            consideration of the group. Such as but not limited to: Rental
            Agreements, Sponsorship, Service Providers, Asset Loans etc.
         5. Not having fluency and literacy in the English language.
+        6. Not having held at least one years membership.
     4. Disqualifications may be excepted explicitly upon election.
         1. A disqualification appearing during existing term must be
            explicitly excepted by resolution by general meeting.

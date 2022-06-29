@@ -615,9 +615,9 @@ The objects of the association are:
     7. Committee positions have no term limit.
 6. Resignations, Vacancies and Removals
     1. Resignations
-    2. Committee members may step down from the committee by:
-        1. Resigning their position as nominated representative
-        2. Resigning the volunteer status
+        1. Committee members may step down from the committee by:
+            1. Resigning their position as nominated representative
+            2. Resigning the volunteer status
     3. Vacancies
         1. Can only occur for Named Committee Roles
         2. The Committee may continue to act for 2 months despite casual
